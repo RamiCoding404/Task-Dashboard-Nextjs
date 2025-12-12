@@ -23,3 +23,4 @@
    admin@test.com → Admin
    pm123@example.com → Project Manager
    rami@example.com → Developer
+   password:123456
