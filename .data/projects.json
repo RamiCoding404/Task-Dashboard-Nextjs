@@ -1,0 +1,110 @@
+[
+  {
+    "id": "p-1",
+    "name": "Project 1",
+    "status": "Planned",
+    "startDate": "2025-11-10",
+    "endDate": "2025-12-10",
+    "progress": 40,
+    "budget": 50000
+  },
+  {
+    "id": "p-2",
+    "name": "Project 2",
+    "status": "Active",
+    "startDate": "2025-11-11",
+    "endDate": "2025-12-12",
+    "progress": 9,
+    "budget": 60000
+  },
+  {
+    "id": "p-3",
+    "name": "Project 3",
+    "status": "Blocked",
+    "startDate": "2025-11-12",
+    "endDate": "2025-12-14",
+    "progress": 18,
+    "budget": 70000
+  },
+  {
+    "id": "p-4",
+    "name": "Project 4",
+    "status": "Completed",
+    "startDate": "2025-11-13",
+    "endDate": "2025-12-16",
+    "progress": 27,
+    "budget": 80000
+  },
+  {
+    "id": "p-5",
+    "name": "Project 5",
+    "status": "Planned",
+    "startDate": "2025-11-14",
+    "endDate": "2025-12-18",
+    "progress": 36,
+    "budget": 90000
+  },
+  {
+    "id": "p-6",
+    "name": "Project 6",
+    "status": "Active",
+    "startDate": "2025-11-15",
+    "endDate": "2025-12-20",
+    "progress": 45,
+    "budget": 100000
+  },
+  {
+    "id": "p-7",
+    "name": "Project 7",
+    "status": "Blocked",
+    "startDate": "2025-11-16",
+    "endDate": "2025-12-22",
+    "progress": 55,
+    "budget": 110000
+  },
+  {
+    "id": "p-8",
+    "name": "Project 8",
+    "status": "Completed",
+    "startDate": "2025-11-17",
+    "endDate": "2025-12-24",
+    "progress": 64,
+    "budget": 120000
+  },
+  {
+    "id": "p-9",
+    "name": "Project 9",
+    "status": "Planned",
+    "startDate": "2025-11-18",
+    "endDate": "2025-12-26",
+    "progress": 73,
+    "budget": 130000
+  },
+  {
+    "id": "p-10",
+    "name": "Project 10",
+    "status": "Active",
+    "startDate": "2025-11-19",
+    "endDate": "2025-12-28",
+    "progress": 82,
+    "budget": 140000
+  },
+  {
+    "id": "p-11",
+    "name": "Project 11",
+    "status": "Blocked",
+    "startDate": "2025-11-20",
+    "endDate": "2025-12-30",
+    "progress": 91,
+    "budget": 150000
+  },
+  {
+    "id": "p-12",
+    "name": "Project 12",
+    "status": "Completed",
+    "startDate": "2025-11-21",
+    "endDate": "2026-01-01",
+    "progress": 60,
+    "budget": 10000
+  }
+]
